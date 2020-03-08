@@ -1,4 +1,4 @@
-# rssc-state-space-models
+# jrssc-state-space-models
 Source code for:
 
 Sansom, P. G., Williamson, D. B., & Stephenson, D. B. (2019). State space models for non-stationary intermittently coupled systems. Journal of the Royal Statistical Society: Series C (Applied Statistics), 68, 1259–1280. https://doi.org/10.1111/rssc.12354
